@@ -1,0 +1,40 @@
+h3{color: olive}
+h2{color:white
+}
+h2{background-color:#0E6655 }
+h2:hover 
+{
+	background-color: white;
+	color: black
+}
+p{text-align: justify;}
+ul{list-style-type: square;}
+
+table,th,td
+{border:1px solid gray;
+border-collapse: collapse;
+}
+th{background-color:#0E6655;
+color: white;
+height: 30px  
+}
+table {width: 100%}
+td{text-align: center;}
+
+.ul1 {list-style-type: circle;}
+tr:nth-child(odd)
+{background-color: olive;}
+
+tr:hover 
+{
+
+	background-color: white
+}
+th:hover
+{
+	background-color: white;
+	color: black 
+}
+img {
+  float: right;
+}
